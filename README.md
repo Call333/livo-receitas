@@ -1,3 +1,7 @@
-# livo-receitas
+# Livro de receitas :man_cook:
 
-Meu Livro de Receitas do curso de Introdução ao Git e ao GitHub
+
+
+Olá! Esse é o meu livro de receitas :cake: 
+
+- Strogonoff de frango
